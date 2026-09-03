@@ -19,4 +19,4 @@
 
 | Status | Nº | Curso/Minicurso | Repositório | Deploy |
 | :----: | :-: | :--------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-|   🚧   |  1  | CFBCursos    | [Acessar](https://github.com/MateusSKV9/nodejs-backend-courses/tree/main/01-cfbcurso) | - |
+|   🚧   |  1  | CFBCursos    | [Acessar](https://github.com/MateusSKV9/nodejs-backend-courses/tree/main/01-cfb-curso) | - |
